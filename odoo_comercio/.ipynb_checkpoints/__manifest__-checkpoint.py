@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 {
-    'name': 'Odoo Academy',
+    'name': 'Odoo Comercio',
     
     'summary':"""Academy app to manage Training""",
     
@@ -29,5 +29,6 @@
     'demo':[
         
     ],
-    
+   
+    'license': 'LGPL-3',
 }
