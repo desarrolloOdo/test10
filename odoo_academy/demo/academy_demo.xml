@@ -21,6 +21,6 @@
             <field name="name">Website 500</field>
             <field name="description"></field>
             <field name="level">advanced</field>
-        </record>
+        </record> 
     </data>
 </odoo>
